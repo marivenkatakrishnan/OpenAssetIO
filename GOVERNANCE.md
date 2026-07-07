@@ -47,8 +47,9 @@ complete the remainder of the term. The leadership roles are:
 
 The current Voting Members of the OpenAssetIO TSC are:
 
-- David Feltell - Foundry **(Chair)**
-- Rob Fanner - Foundry **(TAC Representative)**
+- Philip Grobler - Foundry **(Chair)**
+- Philip Grobler - Foundry **(TAC Representative)**
+- David Feltell - Foundry
 - Ondřej Samohel - Ynput
 - Matt Daw - MovieLabs
 - Peri Friend - Foundry
